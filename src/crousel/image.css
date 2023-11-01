@@ -1,0 +1,19 @@
+.home_image {
+  text-align: center;
+}
+.home_image > img {
+  height: 26rem;
+  width: 95vw;
+  object-fit: fit;
+  
+}
+
+.slider {
+  align-items: center;
+  background-color: aquamarine;
+  height: 26rem;
+  width: 90vw;
+  margin: .2rem 1.5rem 1.8rem 3rem; /* top right bottom left */
+  z-index: 1;
+ 
+}

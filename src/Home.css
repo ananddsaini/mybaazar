@@ -1,0 +1,11 @@
+.home {
+  margin-left: auto;
+  padding: 10px;
+}
+.home_container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  
+  
+}
+

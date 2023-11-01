@@ -1,0 +1,36 @@
+.footer{
+    background-color: #232F3E;
+    color:white;
+    padding: 50px;
+}
+.footer_box{
+   display: flex
+}
+.footer_1{
+    width: 280px;
+margin:60px 20px 100px 120px;
+cursor: pointer;
+}
+.footer_2{
+    width: 280px;
+margin:60px 20px 100px 20px;
+cursor: pointer;
+}
+.footer_3{
+    width: 280px;
+margin:60px 120px auto 20px;
+cursor: pointer;
+
+}
+.footer_2 >a{
+    display:block;
+    color: white;
+    text-decoration: none;
+}
+.footer>p
+{
+    flex-basis: auto;
+    margin-left:37%;
+   
+
+}
